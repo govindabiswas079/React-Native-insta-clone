@@ -1,0 +1,6 @@
+export const Video_1 = require('./VID_143890501_123127_816.mp4')
+export const Video_2 = require('./VID_521810120_054738_595.mp4')
+export const Video_3 = require('./video1.mp4')
+export const Video_4 = require('./video2.mp4')
+export const Video_5 = require('./video3.mp4')
+export const Video_6 = require('./video4.mp4')
